@@ -1,4 +1,4 @@
-# Awesome Patent Retrieval Resources
+#  Patent Retrieval Resources
 
 A curated list of resources for patent data mining, information retrieval from patent databases, patent data sources, and related research.
 
